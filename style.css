@@ -1,0 +1,17 @@
+.name{
+    background-image: url(https://i.pinimg.com/1200x/cd/d3/9d/cdd39d5cb98bdc9c291b0b45e9e3aab1.jpg);
+    text-align: center;
+    padding: 100px;
+    
+}
+.temp{
+    display: flex;
+    
+}
+.card{
+    margin: 30px;
+    
+}
+img{
+    height: 300px;
+}
